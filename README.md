@@ -23,7 +23,7 @@ Vous aurez plusieurs possibilités pour travailler pendant la formation:
     * Anaconda: https://www.anaconda.com/
         * Attention: sous Windows, il faudra installer pour votre utilisateur et ajouter Anaconda à votre "PATH" comme montré ci-dessous:
         ![](images/anaconda_install_1.png)
-        ![](images/anaconda_install_1.png)
+        ![](images/anaconda_install_2.png)
         
         * Sous Linux: miniconda suffira ou tout autre gestionnaire d'environnements virtuels Python.
 
