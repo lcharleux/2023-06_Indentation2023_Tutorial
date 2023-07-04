@@ -41,12 +41,13 @@ Vous avez aussi produit des données d'indentation lors de la session expérimen
 
 Les données expérimentales fournies avec ce tutoriel sont les suivantes:
 
-|                 Dossier                |         Matériau         | Coefficient de Poisson |
-|:--------------------------------------:|:------------------------:|:----------------------:|
-| 2011-06-28_Hysitron_TI950_Fused_Quartz |   Silice pure (amorphe)  |          0.16          |
-|      2014_Hysitron_TI950_Tungsten      |       Tungsten pur       |           0.28         |
-|   2011-05_BMG_Fe41Co7Cr15Mo14C15B6Y2   | Verre métallique base Fe |          0.36          |
-|      2011_05_BMG_Zr50Cu40Al10-400C     | Verre métallique base Zr |          0.36          |
+|                 Dossier                |         Matériau         | Coefficient de Poisson $\nu$ | Module de Young $E$ [GPa] |
+|:--------------------------------------:|:------------------------:|:----------------------------:|:-------------------------:|
+| 2011-06-28_Hysitron_TI950_Fused_Quartz |   Silice pure (amorphe)  |             0.16             |             72            |
+|      2014_Hysitron_TI950_Tungsten      |       Tungsten pur       |              0.28            |            400            |
+|   2011-05_BMG_Fe41Co7Cr15Mo14C15B6Y2   | Verre métallique base Fe |             0.337            |           225.0           |
+|      2011_05_BMG_Zr50Cu40Al10-400C     | Verre métallique base Zr |             0.359            |            94.8           |
+
 
 Les essais ont été réalisés sur une machine Hysitron TI950 avec une point Berkovich en diamant.
 
