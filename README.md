@@ -53,8 +53,8 @@ Les essais ont été réalisés sur une machine Hysitron TI950 avec une point Be
 ## Etapes du tutoriel
 
 1. Si ce n'est pas fait, installer les logiciels.
-2. Créer un notebook avec Jupyter Lab et, en vous inspirant du tutoriel sur le pre-processing dans la documentation de IndentoolBox, réaliser un pré-traitement de vos essais. Sauvegardez vos *batches* avec un nom explicite.
-3. Réalisez la démarche proposée dans le tutoriel dédié au post traitement. Dans le cas de la silice, vérifiez que le module que vous obtenez est correct.
+2. Créer un notebook avec Jupyter Lab et, en vous inspirant du tutoriel sur le *pre-processing* dans la documentation de IndentoolBox, réaliser un pré-traitement de vos essais. Sauvegardez vos *batches* avec un nom explicite.
+3. Réalisez la démarche proposée dans le tutoriel dédié au post-traitement. Dans le cas de la silice, vérifiez que le module que vous obtenez est correct.
 4. Dans le cas du tungsten, appliquez les méthodes inverses de proposées dans IndentoolBox pour les métaux cristallins. 
 5. Ajoutez toute étape qui vous semble pertinente en tenant compte de vos habitudes d'expérimentateur.
 
