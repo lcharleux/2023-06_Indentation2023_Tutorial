@@ -39,7 +39,26 @@ Vous aurez plusieurs possibilités pour travailler pendant la formation:
 Des datasets d'essais d'indentation sont disponibles à [ce lien](https://drive.google.com/drive/folders/169cgLeRt96IWq4aN9yQJpiF7VQ2WXWEB?usp=sharing).
 Vous avez aussi produit des données d'indentation lors de la session expérimentale, vous pouvez les utiliser si vous disposez d'un export en format `txt`.
 
-## But du tutoriel
+Les données expérimentales fournies avec ce tutoriel sont les suivantes:
+
+|                 Dossier                |         Matériau         | Coefficient de Poisson |
+|:--------------------------------------:|:------------------------:|:----------------------:|
+| 2011-06-28_Hysitron_TI950_Fused_Quartz |   Silice pure (amorphe)  |          0.16          |
+|      2014_Hysitron_TI950_Tungsten      |       Tungsten pur       |           0.28         |
+|   2011-05_BMG_Fe41Co7Cr15Mo14C15B6Y2   | Verre métallique base Fe |          0.36          |
+|      2011_05_BMG_Zr50Cu40Al10-400C     | Verre métallique base Zr |          0.36          |
+
+Les essais ont été réalisés sur une machine Hysitron TI950 avec une point Berkovich en diamant.
+
+## Etapes du tutoriel
+
+1. Si ce n'est pas fait, installer les logiciels.
+2. Créer un notebook avec Jupyter Lab et, en vous inspirant des deux tutoriels disponibles dans la documentation de IndentoolBox, réaliser un prétraitement de vos essais. Sauvegardez vos *batches* avec un nom explicite.
+3. Réalisez la démarche proposée dans le tutoriel dédié au post traitement. Dans le cas de la silice, vérifiez que le module que vous obtenez est correct.
+4. Dans le cas du tungsten, appliquez les méthodes inverses de proposées dans IndentoolBox pour les métaux cristallins. 
+5. Ajoutez toute étape qui vous semble pertinente en tenant compte de vos habitudes d'expérimentateur.
+
+## Objectifs
 
 * [ ] Découverte de l'outil `IndentoolBox`.
 * [ ] Installation et configuration (suivre les instructions de la documentation).
