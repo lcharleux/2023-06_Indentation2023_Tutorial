@@ -1,0 +1,95 @@
+date = 2023-07-05
+__class__ = "batch"
+[[tests]]
+__class__ = "test"
+hoffset = 0.0
+reject = false
+name = ""
+path_to_data = ""
+[[tests.steps]]
+__class__ = "conicalloadingstep"
+
+[[tests.steps]]
+__class__ = "step"
+
+[[tests.steps]]
+__class__ = "unloadingstep"
+
+
+[[tests]]
+__class__ = "test"
+hoffset = 0.0
+reject = false
+name = ""
+path_to_data = ""
+[[tests.steps]]
+__class__ = "conicalloadingstep"
+
+[[tests.steps]]
+__class__ = "step"
+
+[[tests.steps]]
+__class__ = "unloadingstep"
+
+
+[[tests]]
+__class__ = "test"
+hoffset = 0.0
+reject = false
+name = ""
+path_to_data = ""
+[[tests.steps]]
+__class__ = "conicalloadingstep"
+
+[[tests.steps]]
+__class__ = "step"
+
+[[tests.steps]]
+__class__ = "unloadingstep"
+
+
+[[tests]]
+__class__ = "test"
+hoffset = 0.0
+reject = false
+name = ""
+path_to_data = ""
+[[tests.steps]]
+__class__ = "conicalloadingstep"
+
+[[tests.steps]]
+__class__ = "step"
+
+[[tests.steps]]
+__class__ = "unloadingstep"
+
+
+[[operators]]
+__class__ = "operator"
+name = "Ludovic Charleux"
+institute = "Institut de Physique de Rennes"
+
+[[operators]]
+__class__ = "operator"
+name = "Mariette Nivard"
+institute = "Institut de Physique de Rennes"
+
+[tip]
+__class__ = "spheroconicaltip"
+young_modulus = 1141000000000.0
+poisson_coefficient = 0.14
+angle = 70.3
+htrunc = 1.5e-8
+radius = 2.4128121689889065e-7
+
+[device]
+__class__ = "device"
+name = "TI-950"
+institute = "Institut de Physique de Rennes"
+compliance = 0.0
+provider = "Hysitron"
+
+[sample]
+__class__ = "sample"
+name = "Fused Quartz"
+provider = "Hysitron"
